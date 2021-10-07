@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Liferay**
-- 🌱 I’m currently learning Java, React, Kubernetes
+- 🌱 I’m currently learning Java, React, Docker, DevSecOps methodology and Kubernetes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolphobarbosa&show_icons=true&theme=dracula)
 
