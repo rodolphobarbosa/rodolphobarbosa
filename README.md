@@ -19,6 +19,7 @@
   ##
   
 <div style="display: inline_block"><br>
+  <a href="https://github.com/rodolphobarbosa" target="_blank">
   <img align="center" alt="Rods-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rods-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Rod-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
