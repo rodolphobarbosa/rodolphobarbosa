@@ -1,6 +1,6 @@
 ## Hi there! I'm Rodolpho, nice to meet you!
 
-- 🔭 I’m currently working on **Liferay** as a Incident Management specialist
+- 🔭 I’m currently working at **Liferay** as a Incident Management specialist
 - 🌱 I’m currently learning Java, React, Docker, DevSecOps methodology and Kubernetes
 - 🇧🇷 I'm from **Brazil**
 
