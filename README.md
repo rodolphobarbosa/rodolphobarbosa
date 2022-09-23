@@ -1,7 +1,7 @@
 ## Hi there! I'm Rodolpho, nice to meet you!
 
 - 🔭 I’m currently working at **Liferay** as a DevOps Engineer
-- 🌱 I’m currently learning JIaaC, DevSecOps methodology and Kubernetes
+- 🌱 I’m currently learning IaaC, DevSecOps methodology and Kubernetes
 - 🇧🇷 I'm from **Brazil**
 
 <div align="center">
