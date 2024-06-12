@@ -1,7 +1,7 @@
 ## Hi there! I'm Rodolpho, nice to meet you!
 
-- 🔭 I’m currently working as a DevOps Engineer
-- 🌱 I’m currently learning DevOps, IaC, Monitoring and Observability, FinOps and CyberSec.
+- 🔭 I’m currently working as a Technical SME
+- 🌱 I’m also knows about DevOps, IaC, Monitoring and Observability, FinOps and CyberSec.
 - 🇧🇷 I'm from **Brazil**
 
 <div align="center">
